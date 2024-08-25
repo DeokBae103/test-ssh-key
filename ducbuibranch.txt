@@ -1,5 +1,4 @@
 edit on github
 ducbui ky ten
-ducbui tren local
 ducbui tren github
 
